@@ -22,59 +22,72 @@
 
 **Integrante 1**
 
-### **Nombre completo:** Chavez Ramirez, Angela Nikol  
-### **Código de estudiante:** 761038798  
-### **Carrera:** Ingenería Biomédica  
-### **Correo institucional:** angela.chavez.r@upch.pe  
-### **Rol en el proyecto:**  
-### **Habilidades destacadas:**  
-
-- 
+![Foto de Angela](./foto-anghela.jpg)
+**Nombre completo:** Chavez Ramirez, Angela Nikol  
+**Edad:** 19  
+**Código de estudiante:** 76338798   
+**Carrera:** Ingenería Biomédica    
+**Correo institucional:** angela.chavez.r@upch.pe   
+**Rol en el proyecto:**   
+**Habilidades destacadas:** 
 
 **Integrante 2**
 
+![Foto de Jimena](./foto-jimena.jpg)
+
 **Nombre completo:** Chumbe Perlacios, Carla Jimena  
-**Código de estudiante:** 61071807   
+**Edad:** 18    
+**Código de estudiante:** 61071807    
 **Carrera:** Ingenería Biomédica    
 **Correo institucional:** carla.chumbe@upch.pe   
 **Rol en el proyecto:**   
-**Habilidades destacadas:**    
-- 
+**Habilidades destacadas:** 
+
 
 **Integrante 3**
 
 ![Foto de Jairo](./foto-jairo.jpeg)  
 
-**Nombre completo:** Cochachin Falero, Jairo Gonzalo  
+**Nombre completo:** Cochachin Falero, Jairo Gonzalo 
+**Edad:** 18   
 **Código de estudiante:** 60957870   
 **Carrera:** Ingenería Biomédica    
 **Correo institucional:** jairo.cochachin@upch.pe   
 **Rol en el proyecto:**   
-**Habilidades destacadas:**  
+ 
 
 **Integrante 4**
 
-**Nombre completo:** Collachagua Jauregui, Arnie Ruben  
+![Foto de Arnie](./foto-arnie.jpg)
+
+**Nombre completo:** Collachagua Jauregui, Arnie Ruben 
+**Edad:** 19   
 **Código de estudiante:** 78548992   
 **Carrera:** Ingenería Biomédica    
 **Correo institucional:** arnie.collachagua@upch.pe   
 **Rol en el proyecto:**   
-**Habilidades destacadas:**    
+   
 
 **Integrante 5**
 
-**Nombre completo:** Duran Apaza, Xiomara Lindsey  
+![Foto de Lindsey](./foto-lindsey.jpeg)
+
+**Nombre completo:** Duran Apaza, Xiomara Lindsey 
+**Edad:** 20 
 **Código de estudiante:** 76414112   
 **Carrera:** Ingenería Biomédica    
 **Correo institucional:** xiomara.duran@upch.pe   
 **Rol en el proyecto:**   
-**Habilidades destacadas:**    
+ 
 
 **Integrante 6**
 
-**Nombre completo:** Estrada Escudero, Fabricio Moises  
+![Foto de Fabricio](./foto-fabricio.jpg)
+
+**Nombre completo:** Estrada Escudero, Fabricio Moises 
+**Edad:** 18   
 **Código de estudiante:** 70635581   
 **Carrera:** Ingenería Biomédica    
 **Correo institucional:** fabricio.estrada@upch.pe   
 **Rol en el proyecto:**   
-**Habilidades destacadas:**    
+  
