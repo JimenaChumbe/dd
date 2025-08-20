@@ -6,7 +6,7 @@
 
 ## Fundamentos de Biodiseño
 
-### Proyecto: 
+![Foto de todos](./Fotogrupal.jpeg)
 
 **Integrantes:**  
 - Chavez Ramirez, Angela Nikol
@@ -20,9 +20,10 @@
 **Ciclo:** 4to Ciclo  
 **Fecha:** 20 de agosto de 2025
 
-**Integrante 1**
+### **INTEGRANTE 1**
 
-![Foto de Angela](./foto-anghela.jpg)
+![Foto de Angela](./foto-anghela.jpg)  
+
 **Nombre completo:** Chavez Ramirez, Angela Nikol  
 **Edad:** 19  
 **Código de estudiante:** 76338798   
@@ -31,7 +32,7 @@
 **Rol en el proyecto:**   
 **Habilidades destacadas:** 
 
-**Integrante 2**
+### **INTEGRANTE 2**
 
 ![Foto de Jimena](./foto-jimena.jpg)
 
@@ -44,11 +45,11 @@
 **Habilidades destacadas:** 
 
 
-**Integrante 3**
+### **INTEGRANTE 3**
 
 ![Foto de Jairo](./foto-jairo.jpeg)  
 
-**Nombre completo:** Cochachin Falero, Jairo Gonzalo 
+**Nombre completo:** Cochachin Falero, Jairo Gonzalo   
 **Edad:** 18   
 **Código de estudiante:** 60957870   
 **Carrera:** Ingenería Biomédica    
@@ -56,11 +57,11 @@
 **Rol en el proyecto:**   
  
 
-**Integrante 4**
+### **INTEGRANTE 4**
 
 ![Foto de Arnie](./foto-arnie.jpg)
 
-**Nombre completo:** Collachagua Jauregui, Arnie Ruben 
+**Nombre completo:** Collachagua Jauregui, Arnie Ruben   
 **Edad:** 19   
 **Código de estudiante:** 78548992   
 **Carrera:** Ingenería Biomédica    
@@ -68,23 +69,23 @@
 **Rol en el proyecto:**   
    
 
-**Integrante 5**
+### **INTEGRANTE 5**
 
 ![Foto de Lindsey](./foto-lindsey.jpeg)
 
-**Nombre completo:** Duran Apaza, Xiomara Lindsey 
-**Edad:** 20 
+**Nombre completo:** Duran Apaza, Xiomara Lindsey   
+**Edad:** 20   
 **Código de estudiante:** 76414112   
 **Carrera:** Ingenería Biomédica    
 **Correo institucional:** xiomara.duran@upch.pe   
 **Rol en el proyecto:**   
  
 
-**Integrante 6**
+### **INTEGRANTE 6**
 
 ![Foto de Fabricio](./foto-fabricio.jpg)
 
-**Nombre completo:** Estrada Escudero, Fabricio Moises 
+**Nombre completo:** Estrada Escudero, Fabricio Moises   
 **Edad:** 18   
 **Código de estudiante:** 70635581   
 **Carrera:** Ingenería Biomédica    
